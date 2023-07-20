@@ -1,7 +1,7 @@
 
 <?php
 
-require_once 'Inserir.php';
+require_once 'php/Inserir.php';
 
 //Capturando os dados do form
 /*

@@ -1,6 +1,6 @@
 <?php
 
-require_once 'conexao.php';
+require_once 'php/conexao.php';
 
 class Inserir{
     /*

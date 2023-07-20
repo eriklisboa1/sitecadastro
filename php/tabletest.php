@@ -1,5 +1,5 @@
 <?php
-require_once 'Selecao.php';
+require_once 'php/Selecao.php';
 
 $busca = new Selecao();
 $resultado = $busca->selecionarUsuario();
