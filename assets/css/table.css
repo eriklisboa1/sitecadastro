@@ -1,0 +1,44 @@
+body{ 
+    background-color: black;
+    text-align:center;
+    padding: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    color: white;
+}
+.form{
+    background-color: black;
+}
+h1{
+    color: #6c63ff;
+}
+/*
+.table{
+    background-color: #6c63ff;
+    border-radius: 60px;
+    border: 2px solid white;
+    display: inline-block;
+    width: 600px;
+    color: black;
+ 
+}
+.table th{
+    background-color: #6c63ff;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+.table td{
+    padding: 8px;
+    border: 1px solid black;
+    text-align: center;
+}
+.table td{
+    background-color: aqua;
+    outline:none;
+}
+.table td[conteditable="true"]:focus{
+    box-shadow: 0 0 4px blue;
+}*/
